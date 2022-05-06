@@ -1,0 +1,35 @@
+.flex-all-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn {
+  padding: 5px 10px;
+  color: white;
+  background-color: var(--main-bg-color);
+  cursor: pointer;
+  border-radius: 7px;
+  border: 2px solid white;
+  font-family: 'Luxurious Roman', cursive;
+  font-weight: bold;
+}
+
+.btn:hover {
+  background-color: #053279;
+}
+
+.my-2{
+    margin: 26px 0;
+}
+.my-3{
+    margin: 7px 0;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.c-2{
+    color: rgb(0, 26, 255);
+}
